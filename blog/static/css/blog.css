@@ -4,11 +4,12 @@ h1 a, h2 a {
 
 body {
     padding-left: 15px;
+    background-color: #9ABCDE;
 }
 
 h1 a, h2 a {
     color: #012345;
-    font-family: 'Comfortaa';
+	font-family: 'Poiret One', cursive;
 }
 
 .page-header {
@@ -18,7 +19,7 @@ h1 a, h2 a {
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #456789;
+    color: #9ABCDE;
     font-size: 36pt;
     text-decoration: none;
 }
@@ -28,11 +29,11 @@ h1 a, h2 a {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Poiret One', cursive;
 }
 
 .date {
-    color: #828282;
+    color: #123456;
 }
 
 .save {
@@ -55,5 +56,5 @@ h1, h2, h3, h4 {
 }
 
 .post h1 a, .post h1 a:visited {
-    color: #000000;
+    color: #012345;
 }
